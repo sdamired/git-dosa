@@ -9,8 +9,8 @@ add ginger
 
 ADD BUTTER
 
-#3 eggs
+#2 eggs
 
 Dosa FLour 
 
-add salt
+
